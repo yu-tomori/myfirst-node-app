@@ -1,0 +1,15 @@
+{
+  "name": "myfirst-node-app",
+  "version": "11.13.0",
+  "description": "this is my first node app",
+  "main": "app.js",
+  "scripts": {
+    "test": "testnode"
+  },
+  "author": "yu",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.6.6"
+  }
+}
